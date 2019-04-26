@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          format="aldt"
+          version="1.5"
+          xml:lang="grc">
+   <date>2019-04-11 07:58:53 UTC</date>
+   <annotator>
+      <short>BenoîtLaudenbach</short>
+      <name>Benoît Laudenbach</name>
+      <address>prosperchaleur@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/Beno%C3%AEtLaudenbach</uri>
+  </annotator>
+   <sentence id="1" document_id="p.mich.1.6.xml|1|orig" subdoc="38016|100">
+      <word id="1" form="Ζήνωνι" lemma="Ζήνων" postag="n-s---md-" relation="OBJ" head="3"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="3" insertion_id="0000e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="p.mich.1.6.xml|1|orig" subdoc="38016|100">
+      <word id="1" form="❨(ἔτους)❩" lemma="ἔτος" postag="n-_---__-" relation="ADV" head="9"/>
+      <word id="2" form="κη|num:28|" lemma="κη" postag="m-_---__-" relation="ATR" head="1"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="4" form="Πε̣ρ̣ι̣τ̣ί̣ο̣υ̣" lemma="Περίτιος" postag="n-s---mg-" relation="ADV" head="9"/>
+      <word id="5" form="|gap:2|" lemma="" postag="" relation="" head=""/>
+      <word id="6" form="⟨ἐ̣μ̣⟩" lemma="ἐν" postag="r--------" relation="AuxP" head="9"/>
+      <word id="7" form="Βουβ̣ά̣σ̣τ̣ω̣ι̣" lemma="Βούβαστος" postag="n-s---md-" relation="ADV" head="6"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="9" insertion_id="0000e" artificial="elliptic" relation="ExD" form="[0]" head="0"/>
+   </sentence>
+</treebank>
