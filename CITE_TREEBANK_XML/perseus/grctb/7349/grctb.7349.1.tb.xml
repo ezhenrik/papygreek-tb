@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          format="aldt"
+          version="1.5"
+          xml:lang="grc">
+   <date>2019-01-25 12:00:03 UTC</date>
+   <annotator>
+      <short>PetriLahtinen</short>
+      <name>Petri Lahtinen</name>
+      <address>petri.m.lahtinen@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/PetriLahtinen</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="p.cair.zen.3.59408.xml|0|orig"
+             subdoc="86961|12">
+      <word id="1" form="ὑπόμνημα" lemma="ὑπόμνημα" postag="n-s---na-" relation="SBJ" head="6"/>
+      <word id="2" form="Ζήνωνι" lemma="Ζήνων" postag="n-s---md-" relation="OBJ" head="6"/>
+      <word id="3" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="6"/>
+      <word id="4" form="[Ἀσ]-κληπιάδος" lemma="?-κληπιάδος" postag="n-s---fg-" relation="ADV" head="3"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+      <word id="6" insertion_id="0000e" artificial="elliptic" relation="PRED" form="[0]" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="p.cair.zen.3.59408.xml|0|orig"
+             subdoc="86961|12">
+      <word id="1" form="καλῶς" lemma="καλός" postag="d-------_" relation="ADV" head="2"/>
+      <word id="2" form="ποιήσεις" lemma="ποιέω" postag="v2sfia---" relation="PRED" head="0"/>
+      <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxK" head="2"/>
+      <word id="4" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="2"/>
+      <word id="5" form="ὧν" lemma="ὅς" postag="p-p---ng-" relation="ADV" head="4"/>
+      <word id="6" form="σοι" lemma="σύ" postag="p2s----d-" relation="OBJ" head="8"/>
+      <word id="7" form="Εἰρη-ναῖος" lemma="Εἰρηναῖος" postag="n-s---mn-" relation="SBJ" head="8"/>
+      <word id="8" form="ἐνετείλατο" lemma="ἐντέλλω" postag="v3saim---" relation="ATR" head="5"/>
+      <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxK" head="2"/>
+      <word id="10" form="δούς" lemma="δίδωμι" postag="v-sapamn-" relation="ADV" head="2"/>
+      <word id="11" form="μοι" lemma="ἐγώ" postag="p1s---fd-" relation="OBJ" head="10"/>
+      <word id="12" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="13"/>
+      <word id="13" form="ἐφόδιον" lemma="ἐφόδιον" postag="n-s---na-" relation="OBJ" head="10"/>
+      <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxK" head="2"/>
+      <word id="15" form="ὅπως" lemma="ὅπως" postag="c--------" relation="AuxC" head="2"/>
+      <word id="16" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="17"/>
+      <word id="17" form="ἀνα-κομισθῶ" lemma="ἀνακομίζω" postag="v1sasp---" relation="ADV_CO" head="20"/>
+      <word id="18" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="17"/>
+      <word id="19" form="αὐτὸν" lemma="αὐτός" postag="p-s---ma-" relation="ATR" head="18"/>
+      <word id="20" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="15"/>
+      <word id="21" form="μὴ" lemma="μή" postag="d-------_" relation="AuxZ" head="22"/>
+      <word id="22" form="δοκῆι" lemma="δοκέω" postag="v3spsa---" relation="ADV_CO" head="20"/>
+      <word id="23" form="με" lemma="ἐγώ" postag="p1s---fa-" relation="SBJ" head="25"/>
+      <word id="24" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="OBJ" head="25"/>
+      <word id="25" form="καταρρᾳ-θυμεῖν" lemma="καταρρᾳθυμέω" postag="v--pna---" relation="PNOM" head="22"/>
+      <word id="26" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="p.cair.zen.3.59408.xml|0|orig"
+             subdoc="86961|12">
+      <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="2" form="⟨ἄγ-γελόμ⟩" lemma="ἄγγελος" postag="n-s---ma-" relation="OBJ" head="4"/>
+      <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---fd-" relation="OBJ" head="4"/>
+      <word id="4" form="ἀπέσ-τειλε" lemma="ἀποστέλλω" postag="v3saia---" relation="PRED_CO" head="1"/>
+      <word id="5" form="⟨καλῶμ⟩" lemma="καλέω" postag="v-sppamn_" relation="ATR" head="2"/>
+      <word id="6" form="με" lemma="ἐγώ" postag="p1s---fa-" relation="OBJ" head="5"/>
+      <word id="7" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="p.cair.zen.3.59408.xml|0|orig"
+             subdoc="86961|12">
+      <word id="1" form="σὺ" lemma="σύ" postag="p2s----n-" relation="SBJ" head="5"/>
+      <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="AuxY" head="5"/>
+      <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---fd-" relation="OBJ" head="5"/>
+      <word id="4" form="τί" lemma="τις" postag="p-s---na-" relation="OBJ" head="5"/>
+      <word id="5" form="συν-τάσσεις" lemma="συντάσσω" postag="v2spia---" relation="PRED" head="0"/>
+      <word id="6" form=";" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="p.cair.zen.3.59408.xml|0|orig"
+             subdoc="86961|12">
+      <word id="1" form="εὐτύχει" lemma="εὐτυχέω" postag="v2spma---" relation="PRED" head="0"/>
+      <word id="2" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
